@@ -1,0 +1,5 @@
+SELECT TOP (1000) [CustomerID]
+      ,[LastName]
+      ,[FirstName]
+      ,[Balance]
+FROM [Account].[Balance]
